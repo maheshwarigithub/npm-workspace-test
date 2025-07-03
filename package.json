@@ -1,0 +1,12 @@
+{
+  "name": "my-workspace-project",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "overrides": {
+    "lodash": "4.17.21"
+  }
+}
+
